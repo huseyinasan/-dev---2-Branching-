@@ -1,4 +1,4 @@
-# Ogrenc_Messaging_App
+# Ogrenci_Messaging_App
 
 Made by me for OU Academy while learning Flutter.
 
